@@ -9,3 +9,4 @@ if ("geolocation" in navigator) {
         console.error(`Error getting location: ${error.message}`);
     });
 }
+
